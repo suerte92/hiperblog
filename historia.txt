@@ -1,2 +1,15 @@
-Milagro 1
-Milagro 2
+
+Estoy Venciendo al rebase
+Vencer 1
+
+Hola estoy estudiando Git
+en Platzi.
+
+Master 1.
+
+Experimento 1
+
+Experimento 2
+
+Cambio 1.
+
