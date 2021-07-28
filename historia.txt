@@ -1,12 +1,1 @@
-Hola estoy estudiando Git
-en Platzi.
-
-Master 1.
-
-Experimento 1
-
-Experimento 2
-
-Cambio 1.
-
-Cambio 2.
+Milagro 1
